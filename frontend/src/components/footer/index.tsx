@@ -1,7 +1,7 @@
 function Footer() {
-    return (
+    return ( /*paddin*/
         <div>
-            <footer className="footer mt-auto  bg-dark">
+            <footer className="footer mg-auto py-3 bg-dark" >
                 <div className="container">
                     <p className="text-light">App desenvolvido por <a href="https://github.com/CaioPereir4" target="_blank" rel="noreferrer">Caio</a></p>
                     <p className="text-light"><small><strong>Semana Spring React</strong><br />
